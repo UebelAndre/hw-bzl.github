@@ -2,7 +2,7 @@
 
 We are an open, decentralized community providing Bazel Central Registry (BCR) packages for hardware design. Independent of any specific company or institution, our community is driven by a global, distributed group of volunteers.
 
-Moving away from the monolithic repositories of the legacy WORKSPACE era (like [rules_hdl](https://github.com/hdl/bazel_rules_hdl)), we fully embrace the modern `bzlmod` ecosystem. We provide modular, decoupled packages tailored for hardware design, allowing users to import exactly what they need. This significantly reduces performance and storage overhead while simplifying maintenance.
+Moving away from the monolithic repositories of the legacy WORKSPACE era (like [rules_hdl](https://github.com/hdl/bazel_rules_hdl)), we fully embrace the modern [Bzlmod](https://bazel.build/external/overview) ecosystem. We provide modular, decoupled packages tailored for hardware design, allowing users to import exactly what they need. This significantly reduces performance and storage overhead while simplifying maintenance.
 
 By coming together under one umbrella organization, we facilitate collaborative maintenance and mitigate the supply chain risks associated with individual user accounts. This structure prevents packages from stagnating if a single maintainer becomes unavailable, while also standardizing foundational interfaces (for example, ensuring all downstream rulesets can consume the same `verilog_library`). Ultimately, our community represents an ideal trade-off between decentralization, modularity, and unified management.
 
