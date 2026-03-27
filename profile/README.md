@@ -31,3 +31,5 @@ We are always thrilled to welcome new contributors and the packages they maintai
   - Nothing will break, and your existing users will experience zero disruption.
 
 - **Naming Conventions:** When naming a new ruleset package repository, we highly recommend using the `rules_*` format (e.g., `rules_vhdl`) instead of the older `bazel_rules_*` prefix.
+
+- **Continuous Integration (CI):** To ensure high quality and build stability, we strongly recommend that every package incorporates a CI pipeline (e.g., [GitHub Actions](https://docs.github.com/en/actions/get-started/continuous-integration)) to automate testing and validation.
