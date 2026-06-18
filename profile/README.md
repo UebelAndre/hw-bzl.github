@@ -18,6 +18,9 @@ By coming together under one umbrella organization, we facilitate collaborative 
 | [rules_tcl](https://github.com/hw-bzl/rules_tcl)             | Bazel rules for the Tcl programming language                 | [@UebelAndre](https://github.com/UebelAndre)     |
 | [rules_systemrdl](https://github.com/hw-bzl/rules_systemrdl) | Bazel rules for [SystemRDL](https://github.com/systemrdl)                                    | [@UebelAndre](https://github.com/UebelAndre)     |
 | [rules_cocotb](https://github.com/hw-bzl/rules_cocotb)       | Bazel rules for Python-based chip (RTL) verification [Cocotb](https://github.com/cocotb/cocotb)                                       | [@UebelAndre](https://github.com/UebelAndre)     |
+| [rules_vunit](https://github.com/hw-bzl/rules_vunit)         | Bazel rules for the [VUnit](https://github.com/VUnit/vunit) VHDL/SystemVerilog unit testing framework | [@UebelAndre](https://github.com/UebelAndre)     |
+| [rules_verible](https://github.com/hw-bzl/rules_verible)     | Bazel rules for [Verible](https://github.com/chipsalliance/verible) SystemVerilog developer tools (linter, formatter, etc.) | [@UebelAndre](https://github.com/UebelAndre)     |
+| [rules_vsg](https://github.com/hw-bzl/rules_vsg)             | Bazel rules for [VSG](https://github.com/jeremiah-c-leary/vhdl-style-guide) (VHDL Style Guide) | [@UebelAndre](https://github.com/UebelAndre)     |
 
 
 ## Contribute
