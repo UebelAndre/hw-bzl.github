@@ -13,7 +13,7 @@ By coming together under one umbrella organization, we facilitate collaborative 
 | [rules_verilog](https://github.com/hw-bzl/bazel_rules_verilog) | Provide foundational verilog/sv interfaces for Bazel rulesets (e.g., verilog_library). | [@MrAMS](https://github.com/MrAMS)          |
 | [rules_vhdl](https://github.com/hw-bzl/rules_vhdl)           | Provide foundational vhdl interfaces for Bazel rulesets (e.g., vhdl_library). | [@UebelAndre](https://github.com/UebelAndre)     |
 | [rules_verilator](https://github.com/hw-bzl/rules_verilator) | Bazel rules for [Verilator](https://github.com/verilator/verilator)-based Verilog/SystemVerilog simulation | [@MrAMS](https://github.com/MrAMS)          |
-| [rules_vivado](https://github.com/hw-bzl/bazel_rules_vivado) | Bazel rules for Vivado FPGA tool                            | [@stridge-cruxml](https://github.com/stridge-cruxml) |
+| [rules_vivado](https://github.com/hw-bzl/rules_vivado) | Bazel rules for Vivado FPGA tool                            | [@UebelAndre](https://github.com/UebelAndre) |
 | [rules_chisel](https://github.com/hw-bzl/rules_chisel)       | Bazel rules for [Chisel](https://github.com/chipsalliance/chisel) hardware description language  | [@MrAMS](https://github.com/MrAMS)          |
 | [rules_tcl](https://github.com/hw-bzl/rules_tcl)             | Bazel rules for the Tcl programming language                 | [@UebelAndre](https://github.com/UebelAndre)     |
 | [rules_systemrdl](https://github.com/hw-bzl/rules_systemrdl) | Bazel rules for [SystemRDL](https://github.com/systemrdl)                                    | [@UebelAndre](https://github.com/UebelAndre)     |
